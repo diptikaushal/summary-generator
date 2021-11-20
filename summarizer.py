@@ -81,7 +81,7 @@ def generate_summary(text,top_n):
     # Step1: read text and tokenize
     sentences = read_article(text)
     
-    # Steo2: generate similarity matrix across sentences
+    # Step2: generate similarity matrix across sentences
     sentence_similarity_matrix = build_similarity_matrix(sentences,stop_words)
     
     # Step3: Rank sentences in similarirty matrix
@@ -91,11 +91,11 @@ def generate_summary(text,top_n):
     #Step4: sort the rank and place top sentences
     ranked_sentences = sorted(((scores[i],s) for i,s in enumerate(sentences)),reverse=True)
     
-    # Step 5: get the top n number of sentences based on rank    
+    # Step5: get the top n number of sentences based on rank    
     for i in range(top_n):
         summarize_text.append(ranked_sentences[i][1])
     
-    # Step 6 : outpur the summarized version
+    # Step6: output the summarized version
     return " ".join(summarize_text),len(sentences)
 
 
