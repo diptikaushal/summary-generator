@@ -32,6 +32,10 @@ A web application to summarize the given text into a specific number of lines us
 
 Live app :- https://text-summary-aditi-101803650.herokuapp.com/
 
+![](snapshots/Landing_Page.jpg)
 
+![](snapshots/Input_Text.jpg)
+
+![](snapshots/Summarized_Text.jpg)
 
 ## Novelty
