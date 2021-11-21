@@ -1,40 +1,36 @@
-# Summary_Generator
-Used Flask API to integrate,python script with a web application. Deployment is done on Heroku cloud platform. Following is the link to the web application:    https://textsumgen.herokuapp.com/
+# Generating Summary of given Text : Project Overview🎯
+## Problem Statement
+Summaries reduce reading time. When researching documents, summaries make the selection process easier. Automatic summarization improves the effectiveness of indexing. Automatic summarization algorithms are less biased than human summarizers. Reading a summary help us to identify the interest area, gives a brief context of the story.
+Hence this summary generator can help in automation of the process and make it more effective and unbiased.
 
-# Requirements:
-You must have following python libararies installed on your machine. Please refer to requirements.txt file for details.
+## Natural Language Processing and Machine Learning problem
+Generating summary of a specific number of lines from the given text. 
+Type : Unsupervised Learning
+Task : Similarity Matrix (Cosine Similarity)
 
-1.Flask (for creating web application).
+## Tools and Technologies used🛠
+Windows 10 OS
+Python 3.7.12
+Pandas
+Numpy
+Malplotlib
+Sklearn
+Nltk
+Networkx
+Flask
+HTML
+CSS
+BootStrap
+Deployed on Heroku cloud
 
-2.NLTK (for natural language processing).
+## Methodology
+![]Methodology.jpg
 
-3.Networkx (for using graph based algorithms).
+## Result
+A web application to summarize the given text into a specific number of lines using unpervised learning.
 
-# Project structure:
-The projects has following major parts:
+Live app :- 
 
-1.app.py : Contains Flask APIs that receive inputs through GUI, calls the main python script for processing and returns the output.
+Landing Page
 
-2.summarizer.py : Contains python code to generate text summary from original text.
-
-3.templates : Contains HTML files that allow user to interact with the application.
-
-# Running the project:
-1.Open Ananconda command prompt and move to your project home directory.
-
-2.Run app.py using below command to start Flask API python app.py.
-
-3.Navigate to the localhost to view the application home page. Localhost: http://127.0.0.1:5000/
-
-4.Enter the text to summarize in the texbox and hit Summarize button.
-
-5.If everything goes well, you should be able to see the summarized version of the text on the results page.
-
-# Screenshots
-
-![1](https://user-images.githubusercontent.com/61036755/91711561-b5c4ed80-eba3-11ea-9f47-1d57096b5092.png)
-
-![2](https://user-images.githubusercontent.com/61036755/91711569-b8bfde00-eba3-11ea-93f9-30332ce5bf96.png)
-
-
-If you like this repo, please don't forget to give a ⭐.
+## Novelty
