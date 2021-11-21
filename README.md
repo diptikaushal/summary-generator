@@ -30,7 +30,8 @@ Generating summary of a specific number of lines from the given text.
 ## Result
 A web application to summarize the given text into a specific number of lines using unpervised learning.
 
-Live app :- 
-Landing Page
+Live app :- https://text-summary-aditi-101803650.herokuapp.com/
+
+
 
 ## Novelty
