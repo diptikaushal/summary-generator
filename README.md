@@ -5,23 +5,23 @@ Hence this summary generator can help in automation of the process and make it m
 
 ## Natural Language Processing and Machine Learning problem
 Generating summary of a specific number of lines from the given text. 
-Type : Unsupervised Learning
-Task : Similarity Matrix (Cosine Similarity)
+-Type : Unsupervised Learning
+-Task : Similarity Matrix (Cosine Similarity)
 
 ## Tools and Technologies used🛠
-Windows 10 OS
-Python 3.7.12
-Pandas
-Numpy
-Malplotlib
-Sklearn
-Nltk
-Networkx
-Flask
-HTML
-CSS
-BootStrap
-Deployed on Heroku cloud
+-Windows 10 OS
+-Python 3.7.12
+-Pandas
+-Numpy
+-Malplotlib
+-Sklearn
+-Nltk
+-Networkx
+-Flask
+-HTML
+-CSS
+-BootStrap
+-Deployed on Heroku cloud
 
 ## Methodology
 
@@ -31,7 +31,6 @@ Deployed on Heroku cloud
 A web application to summarize the given text into a specific number of lines using unpervised learning.
 
 Live app :- 
-
 Landing Page
 
 ## Novelty
