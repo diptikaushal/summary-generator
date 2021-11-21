@@ -25,17 +25,17 @@ Generating summary of a specific number of lines from the given text.
 
 ## Methodology
 
-![](Methodology.jpg)
+![](snapshots/Methodology.jpg)
 
 ## Result
 A web application to summarize the given text into a specific number of lines using unpervised learning.
 
 Live app :- https://text-summary-aditi-101803650.herokuapp.com/
 
-![](snapshots/Landing_Page.jpg)
+![](snapshots/Landing_Page.JPG)
 
-![](snapshots/Input_Text.jpg)
+![](snapshots/Input_Text.JPG)
 
-![](snapshots/Summarized_Text.jpg)
+![](snapshots/Summarized_Text.JPG)
 
 ## Novelty
