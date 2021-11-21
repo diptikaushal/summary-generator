@@ -25,7 +25,7 @@ Deployed on Heroku cloud
 
 ## Methodology
 
-![1]Methodology.jpg
+![](Methodology.jpg)
 
 ## Result
 A web application to summarize the given text into a specific number of lines using unpervised learning.
